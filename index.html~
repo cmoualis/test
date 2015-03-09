@@ -1,4 +1,8 @@
-<h1>Lorem ipsum dolor sit amet. DEV</h1>
+<<<<<<< HEAD
+<h1>Lorem ipsum dolor sit amet. DEVTEST</h1>
+=======
+<h1>Lorem ipsum dolor sit amet. DEEV</h1>
+>>>>>>> 1148037d87c62a2db0c56ec2c90363a4cc20ec2e
 <a href="#"><test/a>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, iure architecto nobis sint rerum nemo consequuntur maiores voluptatibus dolore quo qui fugiat soluta cumque voluptates exercitationem commodi non libero error!</p>
 
